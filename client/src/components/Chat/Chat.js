@@ -10,8 +10,8 @@ import Input from '../Input/Input';
 import './Chat.css';
 
 //const ENDPOINT = 'https://project-chat-application.herokuapp.com/';
+//TODO: deploy to heroku and change endpoint
 const ENDPOINT = 'localhost:5000';
-
 
 let socket;
 
