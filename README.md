@@ -1,8 +1,5 @@
-# react-chat-app
-Front end : React
+# MS Teams clone
 
-Back end : NodeJS & Socket.io 
+This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
 
-![image-demo-1](https://github.com/LLMounir/Portfolio-2021/blob/main/demo/chat-app-demo-1.png)
-![image-demo-1](https://github.com/LLMounir/Portfolio-2021/blob/main/demo/chat-app-demo-2.png)
-![image-demo-1](https://github.com/LLMounir/Portfolio-2021/blob/main/demo/chat-app-demo-3.png)
+### [Example Website](TBA)
